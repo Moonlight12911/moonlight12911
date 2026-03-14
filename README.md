@@ -1,4 +1,4 @@
-# 💫 About Me:
+#Hey there!👋
 🔭 I’m currently working on python and web dev projects<br>
 
 
