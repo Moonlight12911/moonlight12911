@@ -1,4 +1,8 @@
-# 👋 Hey there!
+
+<p align="center">
+<img src="terminal.gif" width="1000"/>
+</p>
+
 
 🔭 I’m currently working on **Python and Web Development projects**
 
